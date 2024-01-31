@@ -8,6 +8,7 @@ I am a master's student in Artificial Intelligence and Cybersecurity, passionate
 
 - 💻 **Programming Languages:** Python, Java, C++, C, C#, Haskell.
 - 🛠️ **Technologies:** Machine Learning, Network Security, Algorithms, Deep Learning, Databases, Unity, VideoGame Programming, Unix, Windows, computer network, ...
+- **Kaggle Page:** [Kaggle Link](https://www.kaggle.com/alessandromajumba/code?scroll=true)
 
 ## Contact Me
 
