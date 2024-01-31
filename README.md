@@ -4,6 +4,14 @@
 
 I am a master's student in Artificial Intelligence and Cybersecurity, passionate about everything related to AI and computer security.
 
+## Education
+
+- **Bachelor's Degree:**
+  University of Udine (UNIUD)
+
+- **Master's Degree:**
+  Joint program between University of Udine (UNIUD) and University of Klagenfurt
+
 ## My Technical Skills
 
 - 💻 **Programming Languages:** Python, Java, C++, C, C#, Haskell.
