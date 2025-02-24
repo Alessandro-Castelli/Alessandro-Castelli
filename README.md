@@ -2,7 +2,7 @@
 
 # I'm Alessandro Castelli! 👋
 
-I am a master's student in Artificial Intelligence and Cybersecurity, passionate about everything related to AI and computer security.
+I am a master's student in Artificial Intelligence and Cybersecurity, passionate about everything related to AI, security and computer science.
 
 ## Education
 
@@ -14,8 +14,8 @@ I am a master's student in Artificial Intelligence and Cybersecurity, passionate
 
 ## My Technical Skills
 
-- 💻 **Programming Languages:** Python, Java, C++, C, C#, Haskell.
-- 🛠️ **Technologies:** Machine Learning, Network Security, Algorithms, Deep Learning, Databases, Unity, VideoGame Programming, Unix, Windows, computer network, ...
+- 💻 **Programming Languages:** Python, Java, C++, C, C#, Haskell, Scheme.
+- 🛠️ **Main Technologies:** Machine Learning, Quantum Machine Learning, Network Security, Algorithms, Data Structure, Deep Learning, Relational Databases, Unity, VideoGame Programming, Unix, Linux, Windows, computer network, ...
 - **Kaggle Page:** [Kaggle Link](https://www.kaggle.com/alessandromajumba/code?scroll=true)
 
 ## Contact Me
@@ -26,4 +26,4 @@ I am a master's student in Artificial Intelligence and Cybersecurity, passionate
 ## My CV
 📄 **My CV:** [Download Here](https://github.com/Alessandro-Castelli/Alessandro-Castelli/blob/main/Curriculum_Vitae_Alessandro_Castelli.pdf)
 
-Thank you for visiting my profile! I am always open to new opportunities and collaborations in the vast world of Artificial Intelligence and Cybersecurity. Feel free to reach out if you have any questions or interesting proposals to share! 🌐✨
+Thank you for visiting my profile! I am always open to new opportunities and collaborations in the vast world of Computer Science. Feel free to reach out if you have any questions or interesting proposals to share! 🌐✨
